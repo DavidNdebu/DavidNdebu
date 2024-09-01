@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DavidNdebu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a web developer.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Projects to build my portfolio
+- 👀 I'm Looking to working on projects to showcase my crearivity, and skill.
 - 📫 How to reach me Email: davendebu96@gmail.com
 
 <!---
